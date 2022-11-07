@@ -52,7 +52,7 @@ Now we are all set to go. just upload the image of any given class and it will c
 ![App Screenshot](https://github.com/ipiyushvaghela/static/blob/main/TrafficSignClassification.jpeg?raw=true)
 
 ## Info about other folders
-1. Folder named `BestPerformingModels` contains 1 model which has .h5 extension and this used in `app.py` file.
+1. Folder named `BestPerformingModels` contains download file from which you can download 1 model which has .h5 extension and put that model in `BestPerformingModels` and that used in `app.py` file.
 2. Folder named `ModelBuildingIPYNBs` contains IPYNB files in which all the code is present, by using those IPYNBs our model is created, you can customize the code according to your need.
 
 ## Contact
